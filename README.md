@@ -1,1 +1,4 @@
-# postgree-sql
+# Postgress SQL
+
+- ACID
+- Padrão ANSI
